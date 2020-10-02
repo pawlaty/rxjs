@@ -1,0 +1,20 @@
+1) git init
+
+   kiedy istnieje plik -- dadanie do repozytorium:
+2) git add *
+
+   polaczenie z repozytorium na githubie -- jeden raz:
+3) git remote add origin https://github.com/pawlaty/rxjs.git
+   
+   stworzenie nowej galezi i przelanczenie sie ma nia:
+4) git branch nowagalaz
+5) git checkout nowagalaz
+
+   zatwierdzenie zmian lokalnie:
+6) git commit -m "koment5arz"
+
+   wypchniecie repozytorium na githuba:
+7) git push -u origin nowagalaz
+
+
+ 
